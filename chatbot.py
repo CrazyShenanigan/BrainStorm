@@ -1,7 +1,7 @@
 import openai
 import colorama
 import readline
-openai.api_key = "Insert your api key here"
+openai.api_key = "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"
 model_engine = "text-davinci-003"
 while True:
     print("")
